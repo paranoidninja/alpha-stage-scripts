@@ -10,9 +10,9 @@ from pyftpdlib.handlers import FTPHandler
 from pyftpdlib.servers import FTPServer
 
 FTP_PORT = 2121
-FTP_USER = "admin"
-FTP_PASSWORD = "admin"
-FTP_DIRECTORY = "/tmp/"
+FTP_USER = "ninja"
+FTP_PASSWORD = "ninja"
+FTP_DIRECTORY = "/media/paranoidninja/Files/my_git_repos/personal_projects/alpha-stage-scripts"
 
 
 def main():
