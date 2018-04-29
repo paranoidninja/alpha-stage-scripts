@@ -2,7 +2,7 @@
 
 ##Author : Paranoid Ninja
 ##Email  : paranoidninja@protonmail.com
-##Descr  : Calculate the bitcoin fees to be paid by calculating the exact satoshies per byte value
+##Descr  : Calculate the bitcoin transaction fees to be paid by calculating the exact satoshies per byte value
 
 import requests
 
